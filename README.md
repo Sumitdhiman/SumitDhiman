@@ -35,6 +35,9 @@ I'm a system administrator based in Punjab, India, specializing in Microsoft pro
   - Modern Endpoints Accreditation 2024
   - Microsoft Copilot 2024-2025 Expert Class
   - Microsoft 365 and Windows Accreditation 2024
+ 
+###  Working on
+I am currently working on a Vibe Coding Project, which is a Browser Extension, known with the name of [Browser Sticky notes](https://github.com/Sumitdhiman/Browser-Sticky-Notes). Feel free to try it!
 
 ### 🌐 Connect With Me
 
