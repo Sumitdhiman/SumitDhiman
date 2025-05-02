@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Sumit Dhiman
 
+
 ## Microsoft Windows Expert & Technical Support Specialist
----------------------------------------------------------------
 
 I'm a system administrator based in Punjab, India, specializing in Microsoft products, particularly Windows and Microsoft 365. I work as an Independent Advisor at Microsoft Community, helping users solve technical problems remotely.
 
-### 🔧 Professional Experience
+## 🔧 Professional Experience
 
 - **Independent Advisor** at Microsoft Community (2019-Present)
   - Handled 50,000+ support cases with 85% satisfaction score
@@ -20,7 +20,7 @@ I'm a system administrator based in Punjab, India, specializing in Microsoft pro
 - **Systems Administrator** at Mindsprings India Private Limited (2017-2018)
   - Oversaw IT Operations for the Law Firm
 
-### 💻 Skills
+## 💻 Skills
 
 - Microsoft 365
 - Windows OS expertise
@@ -29,7 +29,7 @@ I'm a system administrator based in Punjab, India, specializing in Microsoft pro
 - Network and System Administration
 - Generative AI
 
-### 🏆 Certifications
+## 🏆 Certifications
 
 - Microsoft 365 Fundamentals (MS-900)
 - Microsoft ExpertZone:
@@ -37,10 +37,10 @@ I'm a system administrator based in Punjab, India, specializing in Microsoft pro
   - Microsoft Copilot 2024-2025 Expert Class
   - Microsoft 365 and Windows Accreditation 2024
  
-### 💪 Building
+## 💪 Building
 I am currently working on a Vibe Coding Project, a Browser Extension known as [Browser Sticky notes](https://github.com/Sumitdhiman/Browser-Sticky-Notes). Feel free to try it!
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 - Website: [Your Windows Guide](https://www.yourwindowsguide.com)
 - LinkedIn: [linkedin.com/in/sumitdhmn](https://linkedin.com/in/sumitdhmn)
